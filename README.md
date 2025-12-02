@@ -1,3 +1,6 @@
+> 📦 **We’ve Relocated**  
+> The contents of this repository are now hosted at **[github.com/khuyentran1401/codecut-blog](https://github.com/khuyentran1401/codecut-blog/)**. Please follow the new repo to stay updated.
+
 # Data Science Articles from CodeCut
 
 ## About CodeCut
